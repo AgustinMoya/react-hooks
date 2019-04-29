@@ -1,11 +1,11 @@
-import React from 'react';
-import './index.css';
+import React from "react";
+import "./index.css";
 import Example from "../Example";
 
 function Index() {
   return (
     <div className="App">
-      <Example/>
+      <Example />
     </div>
   );
 }
